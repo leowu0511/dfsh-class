@@ -20,3 +20,6 @@ function
 
 第六周
 帶一些acps題目
+
+參考資料:
+https://www.csie.ntu.edu.tw/~b98902112/cpp_and_algo/index.html(台大資工)
