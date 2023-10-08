@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	float w,h,bmi;
+	float h,bmi;
+	int w;
 	cin>>w>>h;
 	cout<<w/h/h;
 }
