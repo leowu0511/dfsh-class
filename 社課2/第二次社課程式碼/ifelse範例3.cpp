@@ -7,7 +7,7 @@ int main(){
 		cout<<"過瘦"; 
 	}
 	else if(bmi>=18.5&&bmi<25){
-		cout<<"適中";
+		cout<<"正常";
 	}
 	else if(bmi>=25){
 		cout<<"過重";
