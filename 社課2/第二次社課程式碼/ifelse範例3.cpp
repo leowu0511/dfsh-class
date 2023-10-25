@@ -4,12 +4,12 @@ int main(){
 	float bmi=0;
 	cin>>bmi;
 	if(bmi<18.5){
-		cout<<"¹L½G"; 
+		cout<<"éç˜¦"; 
 	}
 	else if(bmi>=18.5&&bmi<25){
-		cout<<"¥¿±`";
+		cout<<"é©ä¸­";
 	}
 	else if(bmi>=25){
-		cout<<"¹L­«";
+		cout<<"éé‡";
 	}
 }
