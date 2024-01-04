@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	//¤T¨¤§Î 
+	//ä¸‰è§’å½¢
 	int list[3];
 	for(int i=0;i<3;i++){
 		scanf("%d",&list[i]);
@@ -9,7 +9,7 @@ int main(){
 	
 	sort(list,list+3);
 	
-	//ªwªj
+	//æ³¡æ²«
 	/* 
 	for(int i=0;i<3;i++){
 		for(int j=0;j<3-i;j++){
@@ -23,13 +23,13 @@ int main(){
 	}
 	*/
 	
-	//¿é¥X
+	//è¼¸å‡º
 	for(int i=0;i<3;i++){
 		printf("%d ",list[i]);
 	}
 	printf("\n");
 	
-	//¤TÃä(a<b<c) 
+	//ä¸‰é‚Š(a<b<c) 
 	int a = list[0];
 	int b = list[1];
 	int c = list[2];
